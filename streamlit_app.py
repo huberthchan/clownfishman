@@ -28,7 +28,7 @@ def load_data(table_name):
     return table
 
 # Select and display data table
-table_name = "PETS.PUBLIC.MYTABLE"
+table_name = "DEMOGRAPHICS_DATA_ATLAS.DEMOGRAPHICS.CGMEIHCPI2020"
 
 ## Display data table
 with st.expander("See Table"):
